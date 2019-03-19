@@ -58,7 +58,7 @@ def fibonacci(n):
 
 #-------------------------------------------------------------      
 
- def factorial(n):
+def factorial(n):
     
     '''
     Return n!
