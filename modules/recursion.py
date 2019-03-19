@@ -48,12 +48,12 @@ def fibonacci(n):
     '''
     if n > 2:
         return fibonacci(n-2) + fibonacci(n-1)
-    elif n == 2:
+    elif n == 0:
         return 1
     elif n == 1:
-        return 0
+        return 1
     else:
-        return 0
+        return 1
 
 
 #-------------------------------------------------------------      
@@ -80,7 +80,7 @@ def factorial(n):
     if n == 1:
         return n
     elif n == 0:
-        return 0
+        return 1
     else:
         return n * factorial(n-1) 
 
