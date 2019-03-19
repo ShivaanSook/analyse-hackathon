@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='recsort',
-    version='0.4',
+    version='0.6',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='EDSA hack-a-thon python package',
