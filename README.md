@@ -2,7 +2,8 @@
 
 
 ### Installing using pip
-pip install git+https://github.com/ShivaanSook/analyse-hackathon.git
+pip install git+https://github.com/ShivaanSook/recsort.git
 
 ### Upgrading version using pip
-pip install --upgrade git+https://github.com/ShivaanSook/analyse-hackathon.git
+pip install --upgrade git+https://github.com/ShivaanSook/recsort.git
+
