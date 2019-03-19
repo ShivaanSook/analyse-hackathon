@@ -1,0 +1,10 @@
+README.md
+setup.py
+analyse_hackathon.egg-info/PKG-INFO
+analyse_hackathon.egg-info/SOURCES.txt
+analyse_hackathon.egg-info/dependency_links.txt
+analyse_hackathon.egg-info/requires.txt
+analyse_hackathon.egg-info/top_level.txt
+modules/__init__.py
+modules/recursion.py
+modules/sorting.py
