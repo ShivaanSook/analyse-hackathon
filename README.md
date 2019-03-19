@@ -1,5 +1,5 @@
-#Analyse Hack-a-thon
-###Explore Data Science Academy
+## Analyse Hack-a-thon
+
 
 ## Installing using pip
 pip install git+https://github.com/ShivaanSook/analyse-hackathon.git
