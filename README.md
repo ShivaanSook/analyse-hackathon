@@ -1,4 +1,4 @@
-## Analyse Hack-a-thon
+## Collection of sorting and recursion algorithms.
 
 
 ### Installing using pip
